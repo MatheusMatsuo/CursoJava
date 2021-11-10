@@ -1,0 +1,15 @@
+extends : n é possivél estender mais de uma classe ao msm tempo.
+
+herança multipla e o problema do diamante: utilizar interface qndo se pretende fazer mais de um extend ao msm tempo
+
+Collection: sort() : ordena lista, mas utiliza a interface comparable<T>
+
+Apartir do java 8 tem se o default methods, ou seja, metodos concretos(antes era apenas metodos abstratos) oq torna o codigo reutilizavel
+
+Generic : public class Exemplo<T>, ArrayList<T. Torna o codigo reutilizavel e typesa
+
+Método static: permite chamar o metodo sem instanciar um objeto
+
+List<?> : superTipo de uma lista
+covariancia 
+contravariancia
